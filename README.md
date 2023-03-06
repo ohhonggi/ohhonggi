@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-- 🧑‍💻 I want to be a Backend Developer
-- 📖 I'm studying Java & Spring Boot
-- ☁︎ I'm interested in AWS Services
+- 🧑‍💻 I'm a junior **Backend Developer**
+- 📖 I'm working on a project using Java & Spring Boot
+- ☁︎ I'm currently learning AWS Services
 
 ### Git Stats
 
 ---
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ohhonggi&show_icons=true&theme=transparent" style="height: 165px; margin-right: 5px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhonggi&layout=compact&hide=SCSS,OCaml)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ohhonggi&show_icons=true&theme=transparent&count_private=true&hide=stars" style="height: 160px; margin-right: 5px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhonggi&layout=compact&hide=SCSS,OCaml&hide_progress=true&langs_count=6" style="height: 160px"/>
 </div>
-
-
 
 
 ### 🛠 Tech Stack
