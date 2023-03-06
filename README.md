@@ -7,9 +7,10 @@
 ### Git Stats
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=ohhonggi&show_icons=true&theme=transparent" style="height: 200px; margin-right: 10px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhonggi&layout=compact&hide=SCSS,OCaml)" style="height: 200px"/>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=ohhonggi&show_icons=true&theme=transparent" style="height: 165px; margin-right: 5px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhonggi&layout=compact&hide=SCSS,OCaml)"/>
+</div>
 
 
 
