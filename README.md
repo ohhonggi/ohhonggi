@@ -11,8 +11,8 @@
 
 ---
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ohhonggi&show_icons=true&theme=transparent&count_private=true&hide=stars" style="height: 160px; margin-right: 5px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhonggi&layout=compact&hide=SCSS,OCaml&hide_progress=true&langs_count=6" style="height: 160px"/>
+    <img src="https://github-readme-stats-ohhonggi.vercel.app/api?username=ohhonggi&show_icons=true&theme=transparent&count_private=true&hide=stars" style="height: 160px; margin-right: 5px"/>
+    <img src="https://github-readme-stats-ohhonggi.vercel.app/api/top-langs/?username=ohhonggi&layout=compact&hide=SCSS,OCaml&hide_progress=true&langs_count=6" style="height: 160px"/>
 </div>
 
 
