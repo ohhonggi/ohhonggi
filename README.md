@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi there 👋 
 
 - 🧑‍💻 I'm a junior **Backend Developer**
 - 📖 I'm working on a project using Java & Spring Boot
