@@ -3,7 +3,7 @@
 - 🧑‍💻 I'm a junior **Backend Developer**    
 - 📖 I'm working on a project using Java & Spring Boot
 - ✉️ If you want to ask me anything, contact to me  
-<a href="mailto:honggi.oh19@gmail.com"><img src="https://img.shields.io/badge/gmail-white?logo=gmail" style="height:15px"></a> 
+<a href="mailto:honggi.oh19@gmail.com"><img src="https://img.shields.io/badge/gmail-white?logo=gmail" style="height:15px"></a>  
 
 
 ### 📊 Git Stats
